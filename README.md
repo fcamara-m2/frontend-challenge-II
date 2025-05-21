@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio Front-End II
+  Desafio Front-End Pleno
 </h3>
 
 <h3 align="center">
